@@ -31,7 +31,7 @@ Then we create 6 intents to respond to different requests
     
     * BookServiceGetTime.
     
-        * If the pincode is not available in the database then online booking cant be done and the customer will be contacted           by the customer support team as soon as possible for alternative methods.
+        * If the pincode is not available in the database then online booking cant be done and the customer will be contacted by the customer support team as soon as possible for alternative methods.
         * Here the customer chooses the booking slot from the provided options and finally the service request is booked.
     
     * TrackService.
@@ -53,8 +53,11 @@ Firebase database:
 Firebase database user the concept of collections and documents to store data.
 
 We need to create collections of 
+    
     * serialNumber to store details of all the products so that we can verify the serialNumber entered by the customer.
+    
     * pincode to store the day the service personnel is available for that perticular pincode.
+    
     * BookingDetails to store the service request details booked by the user.
 
 
