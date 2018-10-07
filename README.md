@@ -46,7 +46,9 @@ We need to create collections of
     • BookingDetails to store the service request details booked by the user.
 
 
-
+![screenshot from 2018-10-07 15-48-03](https://user-images.githubusercontent.com/32369302/46582139-29b1f600-ca60-11e8-9c25-c4c1a8787aec.png)
+![screenshot from 2018-10-07 15-48-09](https://user-images.githubusercontent.com/32369302/46582147-3c2c2f80-ca60-11e8-9971-34c6f827839e.png)
+![screenshot from 2018-10-07 15-48-15](https://user-images.githubusercontent.com/32369302/46582144-3898a880-ca60-11e8-9f38-ab36d6ca5cf8.png)
 
 
 
