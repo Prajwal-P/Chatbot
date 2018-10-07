@@ -1,0 +1,102 @@
+[
+  {
+    "id": "314890e5-ab6a-4e76-833a-a06d7b0c97d8",
+    "data": [
+      {
+        "text": "cancel service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "3112d7f9-d768-4593-bd94-ef2a13e75e36",
+    "data": [
+      {
+        "text": "I don\u0027t want service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "815b649e-1787-45d3-b6da-37737734132e",
+    "data": [
+      {
+        "text": "delete service request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "39715a95-aa5d-44ac-9f73-66c17abff2b0",
+    "data": [
+      {
+        "text": "cancel",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "caed0881-af6c-4653-8479-390f0de78342",
+    "data": [
+      {
+        "text": "cancel service request.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "96ab28f5-a095-4160-bfe9-4b9dae0b788c",
+    "data": [
+      {
+        "text": "PYD22KBLTS",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "bc75b21b-77ff-4667-8b81-edb13d8dca7d",
+    "data": [
+      {
+        "text": "RFAZ3345",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  },
+  {
+    "id": "1dc88c47-2b32-416e-b7be-0aa514efbc6d",
+    "data": [
+      {
+        "text": "I want to cancel my service request.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538898262
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "40a503d9-460c-4a38-9980-7c590d1c7637",
+  "name": "TrackService",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "TrackService",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0a4a012-79cb-4958-a43b-4508e24c9a73",
+          "required": true,
+          "dataType": "@serialNumber",
+          "name": "serialNumber",
+          "value": "$serialNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know your product serial number"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e8ee4982-c530-47d9-acbc-bbfdfc54c994",
+          "required": false,
+          "dataType": "@productLine",
+          "name": "productLine",
+          "value": "$productLine",
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "something went wrong"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538898307,
+  "fallbackIntent": false,
+  "events": []
+}

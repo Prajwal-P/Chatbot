@@ -1,0 +1,46 @@
+{
+  "id": "4dbc13c4-632c-41e8-b8e1-2c728e69a30b",
+  "name": "BookServiceGetTime",
+  "auto": true,
+  "contexts": [
+    "get_timing"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookServiceGetTime",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "41895ca5-7f33-4e35-8f7a-b656f1bdf1aa",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "date",
+          "value": "$date",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please choose time slot when you will be available."
+            }
+          ],
+          "isList": true
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538845557,
+  "fallbackIntent": false,
+  "events": []
+}

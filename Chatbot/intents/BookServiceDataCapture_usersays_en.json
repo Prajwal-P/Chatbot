@@ -1,0 +1,264 @@
+[
+  {
+    "id": "63a640db-0a35-4d56-882b-8b0971372fb6",
+    "data": [
+      {
+        "text": "560003",
+        "alias": "pincode",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538833921
+  },
+  {
+    "id": "274d5f6d-92ca-48b6-9a6b-0a3402282f42",
+    "data": [
+      {
+        "text": "560002",
+        "alias": "pincode",
+        "meta": "@sys.number",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538833921
+  },
+  {
+    "id": "f34d89c7-5694-453b-9e99-9c1e2e57455e",
+    "data": [
+      {
+        "text": "560001",
+        "alias": "pincode",
+        "meta": "@sys.number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538833921
+  },
+  {
+    "id": "38ffae7b-53ab-49d2-af19-eee16bdd1bf4",
+    "data": [
+      {
+        "text": "not switching on",
+        "alias": "probDesc",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "6c61817b-4fb3-4fea-a233-cf0d3dbd19b3",
+    "data": [
+      {
+        "text": "fan not turning on",
+        "alias": "probDesc",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "c0d12854-8391-43cd-b4f3-6ba26891faa4",
+    "data": [
+      {
+        "text": "oven not heating properly",
+        "alias": "probDesc",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "eeae11dc-dc40-48a0-a6da-f56cb82c8e9e",
+    "data": [
+      {
+        "text": "it is not cooling",
+        "alias": "probDesc",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "4321a6a2-7e2a-4607-956c-da3c17435479",
+    "data": [
+      {
+        "text": "11th cross, malleshwaram, bangalore",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "469dd051-9911-47a5-b659-85c41ed20ecb",
+    "data": [
+      {
+        "text": "temple street, bangalore",
+        "alias": "address",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "03f014fe-0caa-4d6e-aaf3-f8b83e4fabab",
+    "data": [
+      {
+        "text": "my phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "9865765436",
+        "alias": "phone",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538661630
+  },
+  {
+    "id": "89fd8c18-8337-4bcd-9f67-b09aeda1f01e",
+    "data": [
+      {
+        "text": "eric@outlook.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  },
+  {
+    "id": "489be72e-2501-4281-b014-3fadaa033272",
+    "data": [
+      {
+        "text": "my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "ajay@yahoo.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  },
+  {
+    "id": "12dc34f0-4b5a-4af1-9549-d63dcfaf14bb",
+    "data": [
+      {
+        "text": "my email is ",
+        "userDefined": false
+      },
+      {
+        "text": "peter@gmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  },
+  {
+    "id": "9324905e-2b25-43d3-ad07-08107be96a5f",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "peter",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  },
+  {
+    "id": "477dacfa-e6a9-4830-9e14-e02ac6848e9e",
+    "data": [
+      {
+        "text": "ajay",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  },
+  {
+    "id": "102477c8-4d32-4004-b307-0d99ff6d0c14",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "eric",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  },
+  {
+    "id": "b2659edd-166d-451a-a8a5-b63e7ef96384",
+    "data": [
+      {
+        "text": "my name is ",
+        "userDefined": false
+      },
+      {
+        "text": "john",
+        "alias": "name",
+        "meta": "@sys.given-name",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657698
+  }
+]

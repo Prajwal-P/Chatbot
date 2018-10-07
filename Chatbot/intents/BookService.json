@@ -1,0 +1,92 @@
+{
+  "id": "9d5855f7-6149-4085-886e-9fec30e95fb4",
+  "name": "BookService",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookService",
+      "affectedContexts": [
+        {
+          "name": "get_user_data",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "7d48f967-300b-4ab5-b6aa-3dd6fb87f2e0",
+          "required": true,
+          "dataType": "@serialNumber",
+          "name": "serialNumber",
+          "value": "$serialNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know the serial Number."
+            },
+            {
+              "lang": "en",
+              "value": "Please enter valid serial number."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "3de555d9-68fd-4251-8980-0afc39ea49d7",
+          "required": true,
+          "dataType": "@modelNumber",
+          "name": "modelNumber",
+          "value": "$modelNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know the model number."
+            },
+            {
+              "lang": "en",
+              "value": "Please enter valid model number."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "d7a38c5a-6664-4bbe-9877-cc419f271da2",
+          "required": true,
+          "dataType": "@productLine",
+          "name": "productLine",
+          "value": "$productLine",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please tell the type of the appliance."
+            },
+            {
+              "lang": "en",
+              "value": "May I know what appliance you have."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": false
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538899604,
+  "fallbackIntent": false,
+  "events": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "f9e7605e-c14a-488b-a368-ab4ae638f3e3",
+  "name": "CancelService",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "CancelService",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "d5b80cb4-d322-45a2-876a-68bc7161fba1",
+          "required": true,
+          "dataType": "@serialNumber",
+          "name": "serialNumber",
+          "value": "$serialNumber",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell your product serial number."
+            },
+            {
+              "lang": "en",
+              "value": "May I know your product serial number."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "come again"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538898262,
+  "fallbackIntent": false,
+  "events": []
+}

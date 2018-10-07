@@ -1,0 +1,140 @@
+[
+  {
+    "id": "d6e78432-c2c7-4357-bde7-9a595d626283",
+    "data": [
+      {
+        "text": "track booking",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538811417
+  },
+  {
+    "id": "9e437ac3-9add-448a-9d1b-77bd75d33afa",
+    "data": [
+      {
+        "text": "track service booked",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538749465
+  },
+  {
+    "id": "9ea65211-5d8a-4513-b2b9-f00a8632b2e7",
+    "data": [
+      {
+        "text": "track",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538749465
+  },
+  {
+    "id": "3273fdd3-4a12-42ce-848f-42f0315c69d3",
+    "data": [
+      {
+        "text": "status",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1538749465
+  },
+  {
+    "id": "dfbd4ce0-5f49-4059-b997-79e3c242d3d7",
+    "data": [
+      {
+        "text": "when will my ",
+        "userDefined": false
+      },
+      {
+        "text": "oven",
+        "alias": "productLine",
+        "meta": "@productLine",
+        "userDefined": false
+      },
+      {
+        "text": " be repaired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538749465
+  },
+  {
+    "id": "737bfc38-1e68-4bcf-a76c-165dd02ada03",
+    "data": [
+      {
+        "text": "status of my service request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538749465
+  },
+  {
+    "id": "bb67d696-ff40-414a-9425-eba9146a9c31",
+    "data": [
+      {
+        "text": "I want to trace service of my ac",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538749465
+  },
+  {
+    "id": "0dbe7cea-0dda-45c9-8075-d205467fd80a",
+    "data": [
+      {
+        "text": "track service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538749344
+  },
+  {
+    "id": "f9de7862-ad09-401e-8b9d-6690c31b61ca",
+    "data": [
+      {
+        "text": "RFAZ3347",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538665381
+  },
+  {
+    "id": "e029d051-24d6-46e1-b94c-6bbdd9213832",
+    "data": [
+      {
+        "text": "serial number is ",
+        "userDefined": false
+      },
+      {
+        "text": "RFAZ3347",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538665381
+  }
+]

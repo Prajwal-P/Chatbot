@@ -1,0 +1,309 @@
+[
+  {
+    "id": "64b98189-017a-4952-bad5-042f48ad3747",
+    "data": [
+      {
+        "text": "book service for ",
+        "userDefined": false
+      },
+      {
+        "text": "ac",
+        "alias": "productLine",
+        "meta": "@productLine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538896387
+  },
+  {
+    "id": "1dd306e3-65a2-460f-8fa9-7483f2822ad8",
+    "data": [
+      {
+        "text": "my model number is ",
+        "userDefined": false
+      },
+      {
+        "text": "CFE28USHSS",
+        "alias": "modelNumber",
+        "meta": "@modelNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538896387
+  },
+  {
+    "id": "d48784aa-b50f-4f9f-a8c3-a1201274614b",
+    "data": [
+      {
+        "text": "MOOP6666",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538896387
+  },
+  {
+    "id": "7b8e9aa7-842b-4c62-ab71-57d003448ee3",
+    "data": [
+      {
+        "text": "booking service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836679
+  },
+  {
+    "id": "863bcf76-3f33-4b7d-a615-32f26196441f",
+    "data": [
+      {
+        "text": "request for service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836679
+  },
+  {
+    "id": "289bd1d7-f265-4c8c-b0f1-e0103758fce6",
+    "data": [
+      {
+        "text": "service request",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836679
+  },
+  {
+    "id": "1a4485a7-a5da-451c-b5c0-fd888d1d8c2f",
+    "data": [
+      {
+        "text": "i want to book service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836679
+  },
+  {
+    "id": "d08ceae8-67ca-4d60-a36f-02609a2c1174",
+    "data": [
+      {
+        "text": "Book Service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538594653
+  },
+  {
+    "id": "fcbb1adb-b668-405a-afbe-6fe00ab4141d",
+    "data": [
+      {
+        "text": "device is not switching on.",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657794
+  },
+  {
+    "id": "93039f17-6920-4fef-98c1-c9be0e735ba0",
+    "data": [
+      {
+        "text": "its not working",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657794
+  },
+  {
+    "id": "caa6db72-a864-4759-af09-4188e5be8be0",
+    "data": [
+      {
+        "text": "my refrigerator is not cooling",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538657794
+  },
+  {
+    "id": "a8d1b39a-33aa-47bc-b887-3602768a99ee",
+    "data": [
+      {
+        "text": "RFAZ3357",
+        "alias": "modelNumber",
+        "meta": "@modelNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538596581
+  },
+  {
+    "id": "d362ac2b-9c30-482a-9680-4a626f7fc963",
+    "data": [
+      {
+        "text": "AJEQ12DCF",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538619473
+  },
+  {
+    "id": "78f7d756-f61c-4048-b216-e5e6b46c3334",
+    "data": [
+      {
+        "text": "ACZN9047",
+        "alias": "modelNumber",
+        "meta": "@modelNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538596581
+  },
+  {
+    "id": "b6621a4f-f9f2-4aba-9ae6-7549cccfd187",
+    "data": [
+      {
+        "text": "model number is ",
+        "userDefined": false
+      },
+      {
+        "text": "GFW450SSMWW",
+        "alias": "modelNumber",
+        "meta": "@modelNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538595621
+  },
+  {
+    "id": "7c075a55-400b-4713-9906-3e7a5577a8e7",
+    "data": [
+      {
+        "text": "serial number is ",
+        "userDefined": false
+      },
+      {
+        "text": "WSHY3339",
+        "alias": "serialNumber",
+        "meta": "@serialNumber",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538596581
+  },
+  {
+    "id": "e68cfce2-cd00-4d1f-a807-d18f41e9f695",
+    "data": [
+      {
+        "text": "Book service for my ",
+        "userDefined": false
+      },
+      {
+        "text": "Oven",
+        "alias": "productLine",
+        "meta": "@productLine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538594653
+  },
+  {
+    "id": "2a0964bf-caae-427c-b253-7a8156ccdb35",
+    "data": [
+      {
+        "text": "Dryer",
+        "alias": "productLine",
+        "meta": "@productLine",
+        "userDefined": false
+      },
+      {
+        "text": " not working",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538594653
+  },
+  {
+    "id": "9451fc07-f1bd-423e-8b70-da804fcc3275",
+    "data": [
+      {
+        "text": "get my ",
+        "userDefined": false
+      },
+      {
+        "text": "AC",
+        "alias": "productLine",
+        "meta": "@productLine",
+        "userDefined": false
+      },
+      {
+        "text": " repaired",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 1538594653
+  },
+  {
+    "id": "4611e4d2-4a32-43e8-81fb-222a0d2b53e1",
+    "data": [
+      {
+        "text": "I want to get my ",
+        "userDefined": false
+      },
+      {
+        "text": "refrigerator",
+        "alias": "productLine",
+        "meta": "@productLine",
+        "userDefined": false
+      },
+      {
+        "text": " repaired.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538594653
+  }
+]

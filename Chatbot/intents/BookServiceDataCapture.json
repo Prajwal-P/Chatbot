@@ -1,0 +1,142 @@
+{
+  "id": "51ec2e55-b05c-4f7a-a683-c7d6ed8a3813",
+  "name": "BookServiceDataCapture",
+  "auto": true,
+  "contexts": [
+    "get_user_data"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "BookServiceDataCapture",
+      "affectedContexts": [
+        {
+          "name": "get_timing",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "549012d9-8dff-4885-a44e-9730282f1345",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "name",
+          "value": "$name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell your name."
+            },
+            {
+              "lang": "en",
+              "value": "May I know your name."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "f131736e-a441-47a8-a410-e79043b8739c",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me your email-id"
+            },
+            {
+              "lang": "en",
+              "value": "May I know your email-id."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "bc511afa-332a-4697-944b-37c6575882b9",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone",
+          "value": "$phone",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell your phone number."
+            },
+            {
+              "lang": "en",
+              "value": "May I know your phone number."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "139cf48d-e617-4148-b637-6ede6c420697",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "address",
+          "value": "$address",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell me your address"
+            },
+            {
+              "lang": "en",
+              "value": "May I know your address."
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "ffe95c1d-3433-42ff-9454-7c1d7be793e9",
+          "required": true,
+          "dataType": "@sys.any",
+          "name": "probDesc",
+          "value": "$probDesc",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "May I know what is wrong with the appliance?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "13a6fd94-4eef-4a55-8379-0b30a694c048",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "pincode",
+          "value": "$pincode",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Tell your area pincode."
+            },
+            {
+              "lang": "en",
+              "value": "May I know your area pincode."
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Some thing went wrong !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": true,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538897268,
+  "fallbackIntent": false,
+  "events": []
+}

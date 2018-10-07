@@ -1,0 +1,57 @@
+[
+  {
+    "value": "Refrigerator",
+    "synonyms": [
+      "Refrigerator",
+      "fridge"
+    ]
+  },
+  {
+    "value": "Freezer",
+    "synonyms": [
+      "Freezer",
+      "cooler"
+    ]
+  },
+  {
+    "value": "Dishwasher",
+    "synonyms": [
+      "Dishwasher",
+      "cleaner"
+    ]
+  },
+  {
+    "value": "Wall Oven",
+    "synonyms": [
+      "Wall Oven",
+      "Oven"
+    ]
+  },
+  {
+    "value": "Microwave",
+    "synonyms": [
+      "Microwave",
+      "Oven"
+    ]
+  },
+  {
+    "value": "Washer",
+    "synonyms": [
+      "Washer"
+    ]
+  },
+  {
+    "value": "Dryer",
+    "synonyms": [
+      "Dryer"
+    ]
+  },
+  {
+    "value": "Air Conditioner",
+    "synonyms": [
+      "Air Conditioner",
+      "AC",
+      "cooler"
+    ]
+  }
+]

@@ -1,0 +1,57 @@
+{
+  "id": "923cda9e-0c7f-474e-9841-bdae9da88d7e",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [
+        {
+          "name": "get_data",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "suggestions": [
+            {
+              "title": "Book service"
+            },
+            {
+              "title": "Track Service request"
+            },
+            {
+              "title": "Cancel Service request"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Welcome to GEA Service Bot. How can I help you today?"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1538899097,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ]
+}

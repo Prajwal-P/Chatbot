@@ -1,0 +1,246 @@
+[
+  {
+    "id": "ef5a31d7-8d18-492c-8e87-08d73c9ba88c",
+    "data": [
+      {
+        "text": "saturday 2-6PM",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "3aafbdd1-a6a1-4f25-a130-e8b6c23e137a",
+    "data": [
+      {
+        "text": "friday 10-2PM",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "9929e96f-f10f-4fd9-95e8-b81fec6e5d86",
+    "data": [
+      {
+        "text": "thursday 2-6PM",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "09a7be33-ce6e-4cdc-b6f6-819c5b5cd8f3",
+    "data": [
+      {
+        "text": "wednesday 10-2PM",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "52ac6b00-33be-48c1-9938-2b8693f1c0d2",
+    "data": [
+      {
+        "text": "tuesday 10AM",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "2fd479cb-7e0b-4988-9b5d-04baf408d471",
+    "data": [
+      {
+        "text": "monday 2PM",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "0ddd197a-c7f8-40ba-88ab-b4ac94e1941b",
+    "data": [
+      {
+        "text": "saturday",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "129bea50-91cb-45f8-8567-1a328ff92f3f",
+    "data": [
+      {
+        "text": "friday",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "7ab03ee8-66e9-4c72-96a3-2f64c60837ef",
+    "data": [
+      {
+        "text": "thursday",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "a7de7929-cb5f-4a58-b77a-dc1f88e4dc2f",
+    "data": [
+      {
+        "text": "wednesday",
+        "alias": "date",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "517437a6-5e97-47ca-a286-cb417fedeb94",
+    "data": [
+      {
+        "text": "tuesday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "323b0e9a-679c-45ed-bcee-4d94c3a90496",
+    "data": [
+      {
+        "text": "monday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538836304
+  },
+  {
+    "id": "6b69a489-3236-4afe-ad2d-51c940eff75d",
+    "data": [
+      {
+        "text": "24-5-2018",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "2PM",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " onwards",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538834236
+  },
+  {
+    "id": "dcb8265a-9c54-4599-87b5-829113c20e09",
+    "data": [
+      {
+        "text": "tuesday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10:00",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " is good",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538834236
+  },
+  {
+    "id": "5ef38574-3924-4d0d-bedd-8d22832fc0d6",
+    "data": [
+      {
+        "text": "Monday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "10-2PM",
+        "meta": "@sys.ignore",
+        "userDefined": true
+      },
+      {
+        "text": " is fine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1538834236
+  }
+]
