@@ -35,7 +35,8 @@ Then we create 6 intents to respond to different requests
     • CancelService.
         ◦ This intent handles canceling of service request if the customer doesnt need service.
 
-
+![screenshot from 2018-10-07 15-48-22](https://user-images.githubusercontent.com/32369302/46582212-0dfb1f80-ca61-11e8-93d1-bd4776cd196d.png)
+![screenshot from 2018-10-07 15-48-25](https://user-images.githubusercontent.com/32369302/46582217-13586a00-ca61-11e8-98a7-566b42166349.png)
 
 
 Firebase database:
@@ -49,23 +50,6 @@ We need to create collections of
 ![screenshot from 2018-10-07 15-48-03](https://user-images.githubusercontent.com/32369302/46582139-29b1f600-ca60-11e8-9c25-c4c1a8787aec.png)
 ![screenshot from 2018-10-07 15-48-09](https://user-images.githubusercontent.com/32369302/46582147-3c2c2f80-ca60-11e8-9971-34c6f827839e.png)
 ![screenshot from 2018-10-07 15-48-15](https://user-images.githubusercontent.com/32369302/46582144-3898a880-ca60-11e8-9f38-ab36d6ca5cf8.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 Instructions to run:
