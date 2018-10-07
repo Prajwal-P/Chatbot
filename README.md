@@ -17,22 +17,30 @@ Then we create entities to identify
    *  modelNumber
 
 Then we create 6 intents to respond to different requests
+
     * Default Welcome Intent.
+    
         * It is used to respond to hi, hello request.
+    
     * BookService.
+    
         * It accepts appliance serialNumber, modelNumber, applianceType and sends it to firebase function to verify whether             it is valid and returns back the response to user.
     * BookServiceDataCapture.
+    
         * Here the intent gets user details like name, email, phone, address,
           problem with the appliance, pincode and responds with the booking slots available for that corresponding pincode. 
+    
     * BookServiceGetTime.
+    
         * If the pincode is not available in the database then online booking cant be done and the customer will be contacted           by the customer support team as soon as possible for alternative methods.
         * Here the customer chooses the booking slot from the provided options 
           and finally the service request is booked.
+    
     * TrackService.
         * This intent handles the tracking requests of the user and replies the status by fetching from the database.
+    
     * CancelService.
         * This intent handles canceling of service request if the customer doesnt need service.
-
 
 
 
